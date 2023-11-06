@@ -1,0 +1,28 @@
+.Clients_Container{
+    width: 80%;
+    padding-left: 20px;
+}
+.Clients_Heading{
+    font-size: 21px;
+    height: 40px;
+    padding-top: 15px;
+}
+
+.clients_form_container{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.clients_from_width{
+    width: 100%;
+
+}
+.border_size{
+    width: 100%;
+    border: 1px solid gray;
+    border-radius: 4px;
+    padding: 15px;
+}
+
+
+
